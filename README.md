@@ -59,9 +59,9 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vasanthkumar7&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
- Hackerrank     https://www.hackerrank.com/roshank9419  
- LeetCode       https://leetcode.com/roshan9419/  
+ GeeksForGeeks  https://auth.geeksforgeeks.org/user/MaanPetter/
+ Hackerrank     https://www.hackerrank.com/maanpetter75 
+ LeetCode       https://leetcode.com/maanpetter75/ 
  
  
 ### YouTube
@@ -83,14 +83,14 @@ I'm a Computer Science Student 😊.
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/roshank9419/" target="_blank">
-  <img align="left" alt="Roshan's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Vasanth's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/RoshanK70963497/" target="_blank">
-  <img align="left" alt="Roshan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Vasanth's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/roshank9419/" target="_blank">
-  <img align="left" alt="Roshan's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.instagram.com/vasanthkumar__007/" target="_blank">
+  <img align="left" alt="Vasanth's Instagram" src="https://img.shields.io/badge/Instagram-e02cad?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="roshank9419@gmail.com" target="_blank">
-  <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="vasanthkumar.20.june.2001@gmail.com" target="_blank">
+  <img align="left" alt="Vasanth's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
