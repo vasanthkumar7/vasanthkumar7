@@ -65,7 +65,7 @@ I'm a Computer Science Student 😊.
  
  
 ### YouTube
- https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
+https://www.youtube.com/channel/UCthO4dnD-Whl41vi_AvPw-g
  
 
 ## 📊 Github stats
