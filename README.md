@@ -94,3 +94,14 @@ https://www.youtube.com/channel/UCthO4dnD-Whl41vi_AvPw-g
 <a href="vasanthkumar.20.june.2001@gmail.com" target="_blank">
   <img align="left" alt="Vasanth's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br>
+<br>
+<br>
+
+## What I'm Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qmfshgi6cyoollnihzosqlg62e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qmfshgi6cyoollnihzosqlg62e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
+      alt="example"> 
+</p>
