@@ -59,9 +59,9 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vasanthkumar7&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/MaanPetter/
- Hackerrank     https://www.hackerrank.com/maanpetter75 
- LeetCode       https://leetcode.com/maanpetter75/ 
+GeeksForGeeks  https://auth.geeksforgeeks.org/user/MaanPetter/  <br>
+Hackerrank     https://www.hackerrank.com/maanpetter75 <br>
+LeetCode       https://leetcode.com/maanpetter75/ <br>
  
  
 ### YouTube
