@@ -24,7 +24,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many projects using different technoligies like python,dart,html,css,js etc.  
 
-<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
+
 
 ### Languages and Tools  
 
