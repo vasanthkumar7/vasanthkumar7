@@ -33,7 +33,7 @@ LeetCode       https://leetcode.com/maanpetter75/ <br>
 https://www.youtube.com/@vasanthkumar7
 
 ### Connect With Me
-<a href="[https://www.linkedin.com/in/roshank9419](https://www.linkedin.com/in/vasanth-kumar-k-3280ba171/)/" target="_blank">
+<a href="https://www.linkedin.com/in/vasanth-kumar-k-3280ba171" target="_blank">
   <img align="left" alt="Vasanth's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/VasanthKumar_in" target="_blank">
