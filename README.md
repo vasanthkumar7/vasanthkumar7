@@ -51,9 +51,3 @@ https://www.youtube.com/@vasanthkumar7
 <br>
 
 
-## What I'm Currently Listening To
-
-<p align="">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qmfshgi6cyoollnihzosqlg62e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qmfshgi6cyoollnihzosqlg62e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
-      alt="example"> 
-</p>
